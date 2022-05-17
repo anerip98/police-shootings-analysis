@@ -1,5 +1,7 @@
 # Police Shootings Analysis - Washington Post Data
 
+This work was done for the Data Analysis and Visualization course at DA-IICT. 
+
 In 2015, The Washington Post began to log every fatal shooting by an on-duty police officer in the United States - including the race of the deceased, the circumstances of the shooting, whether the person was armed and whether the person was experiencing a mental-health crisis. This was done by culling local news reports, law enforcement websites and social media, and by monitoring independent databases such as Killed by Police and Fatal Encounters.
 
 The Post is documenting only those shootings in which a police officer, in the line of duty, shoots and kills a civilian — the circumstances that most closely parallel the 2014 killing of Michael Brown in Ferguson, Mo., which began the protest movement culminating in Black Lives Matter and an increased focus on police accountability nationwide. The Post is not tracking deaths of people in police custody, fatal shootings by off-duty officers or non-shooting deaths.
